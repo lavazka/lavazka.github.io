@@ -182,6 +182,8 @@ header{
     font-weight: 300px;
     margin-bottom: 30px;
     font-family:'Roboto';
+    text-align:justify;
+
 }
 
 .about-box{
@@ -291,6 +293,7 @@ header{
 	color:#555;
 	font-size:90%;
 	margin-bottom:20px;
+    text-align:left;
 }
 
 .service-link {
